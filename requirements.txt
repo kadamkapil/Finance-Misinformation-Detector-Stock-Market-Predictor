@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+yfinance
+numpy
+scikit-learn
+tensorflow
+xgboost
+google-generativeai
